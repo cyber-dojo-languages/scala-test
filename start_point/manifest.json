@@ -1,4 +1,3 @@
-
 {
   "display_name": "Scala, scalatest",
 
@@ -14,7 +13,7 @@
 
   "max_seconds": 15,
 
-  "filename_extension" : ".scala",
+  "filename_extension": ".scala",
 
   "tab_size": 4
 }
